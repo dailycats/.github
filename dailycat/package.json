@@ -1,0 +1,30 @@
+{
+  "name": "daily-cat",
+  "version": "2.0.0",
+  "description": "DailyCAT adalah bot Discord yang menyenangkan dan menggemaskan yang mencerahkan harimu dengan gambar kucing acak setiap hari. Siap-siap untuk terpesona oleh kucing-kucing berbulu!",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsup ./index.ts && node dist/index.js",
+    "dev": "tsx ./index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "@types/node-cron": "^3.0.8",
+    "tsup": "^6.7.0",
+    "tsx": "^3.12.9",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.5.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.10.0",
+    "zod": "^3.22.2"
+  },
+  "keywords": [],
+  "author": "lrmn",
+  "license": "MIT"
+}
