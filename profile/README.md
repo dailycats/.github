@@ -14,7 +14,7 @@
 </h3>
 </div>
 
-![logo](https://cdn.discordapp.com/attachments/1098969636306960465/1154369483469766676/ogdailycats.png)
+![logo](https://cdn.discordapp.com/attachments/1098969636306960465/1154371534383759430/dailycatss.png)
 
 
 ## Tentang
