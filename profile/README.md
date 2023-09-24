@@ -9,8 +9,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/dailycats?label=Follow&style=social)](https://github.com/dailycats)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/WFfjrQxnfH)](https://discord.gg/WFfjrQxnfH)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/LRMN)
-
 </h3>
 </div>
 
@@ -26,3 +24,16 @@ DailyCAT adalah bot Discord yang menyenangkan dan menggemaskan yang mencerahkan 
 *Catatan: Pastikan bot ini memiliki izin yang diperlukan untuk berfungsi dengan baik di server Anda.*
 
 Visit [dailycat.is-a.fun](https://dailycat.is-a.fun/) to learn more!
+
+
+----
+
+<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/LRMN">
+    <img alt="Donation" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
+  </a>
+</p>
+
+###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
+<!-- Heavily inspired by https://github.com/crunchy-lab !-->
