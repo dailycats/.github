@@ -30,6 +30,8 @@ DailyCAT adalah bot Discord yang menyenangkan dan menggemaskan yang mencerahkan 
 
 Visit [dailycat.is-a.fun](https://dailycat.is-a.fun/) to learn more!
 
+## Thanks to 
+[![Deploy Button](https://cdn.hop.io/assets/deploy-button/button.svg)](https://console.hop.io/deploy-button)
 
 ----
 
