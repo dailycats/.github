@@ -12,6 +12,11 @@
   <br>
 </p>
 
+## Join Server Discord
+<p align="center"> 
+  <a href="https://discord.gg/WFfjrQxnfH" target="_blank"> <img src="https://discordapp.com/api/guilds/1088032923443277824/widget.png?style=banner2"/> </a> 
+</p>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
 [![discord](https://img.shields.io/badge/Invite_Bot-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/api/oauth2/authorize?client_id=1145410245229809747&permissions=551903423600&scope=applications.commands%20bot)](https://discord.com/api/oauth2/authorize?client_id=1145410245229809747&permissions=551903423600&scope=applications.commands%20bot)
 [![GitHub followers](https://img.shields.io/github/followers/dailycats?label=Follow&style=social)](https://github.com/dailycats)
